@@ -15,6 +15,7 @@
 | **Type** | Two-sided marketplace (customer + driver apps) |
 | **Platforms** | iOS, Android |
 | **Industry** | Ride-Hailing & Logistics |
+| **Live** | [Google Play](https://play.google.com/store/apps/details?id=com.tetanggaku&hl=id) |
 
 ---
 
