@@ -35,14 +35,15 @@ Tetanggaku faced a challenging market condition: entering an already-saturated r
 ## Competitive Landscape & Research
 
 ### Competitive Analysis
-Examined leading ride-hailing platforms to understand established patterns and best practices:
+One-week analysis of leading ride-hailing platforms to understand established patterns and best practices.
 
-- **Gojek:** Feature breadth, service ecosystem expansion
-- **Grab:** Regional expansion strategy, payment integration
+- **Scope:** Gojek and Grab (the two market leaders in Southeast Asia)
+- **Focus:** Key user flows and UI patterns
+- **Method:** Flow mapping, pattern documentation, interaction analysis
 - **Key learnings:** Service diversity, simplified onboarding, payment flexibility, driver incentive design
 
 ### Strategic Approach
-Rather than create entirely original designs, the strategy focused on **thoughtful adaptation**—taking proven patterns from market leaders and tailoring them to Tetanggaku's positioning and constraints.
+Rather than create entirely original designs, the strategy focused on thoughtful adaptation — taking proven patterns from market leaders and tailoring them to Tetanggaku's positioning and constraints.
 
 ---
 
@@ -175,9 +176,9 @@ Presented designs with full journey walkthroughs and feature narratives to the t
 ### User Adoption
 | Metric | Result |
 |--------|--------|
-| **App Downloads** | 100K+ |
-| **User Rating** | 4.5 stars |
-| **Available Services** | 3 primary + 10+ features |
+| **App Downloads** | 100K+ (achieved in 1 year) |
+| **User Rating** | 4.5 stars (2,240 reviews) |
+| **Available Services** | 3 primary (motorcycle, car, delivery) + 10+ features |
 
 ### Design Impact
 | Dimension | Achievement |
@@ -235,7 +236,7 @@ Rather than building elaborate design systems or processes, reusable interaction
 
 ## Reflection
 
-This project demonstrated that **design excellence can enable market competition despite resource constraints**. By focusing on UX fundamentals, applying competitive research thoughtfully, and maintaining consistency across a complex, two-sided platform, a single designer enabled Tetanggaku to achieve 100K+ downloads and 4.5-star ratings.
+This project demonstrated that **design excellence can enable market competition despite resource constraints**. By focusing on UX fundamentals, applying one week of competitive research thoughtfully, and maintaining consistency across a complex, two-sided platform, a single designer enabled Tetanggaku to achieve 100K+ downloads and 4.5-star ratings (2,240 reviews) within the first year of launch.
 
 The work also highlighted that **startup constraints, while challenging, can drive process innovation**. The absence of formal PRDs and low-fidelity phases forced a more conversational, stakeholder-aligned approach to design. While unconventional, this approach reduced overhead and accelerated decision-making.
 
