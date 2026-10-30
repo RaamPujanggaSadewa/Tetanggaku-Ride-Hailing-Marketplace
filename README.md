@@ -2,9 +2,9 @@
 
 **A small team set out to compete with Gojek and Grab. As the only designer for two years, I designed every screen across three apps, which together passed 100K downloads.**
 
-[**Read the full case study →**](https://raam-portfolio-eta.vercel.app/work/tetanggaku) · [Watch the 70-second video](https://raam-portfolio-eta.vercel.app/work/tetanggaku#watch) · [See it on Google Play](https://play.google.com/store/apps/details?id=com.tetanggaku)
+[**Read the full case study →**](https://raamportfolio.vercel.app/work/tetanggaku) · [Watch the 70-second video](https://raamportfolio.vercel.app/work/tetanggaku#watch) · [See it on Google Play](https://play.google.com/store/apps/details?id=com.tetanggaku)
 
-[![The case study video](./video-poster.jpg)](https://raam-portfolio-eta.vercel.app/work/tetanggaku#watch)
+[![The case study video](./video-poster.jpg)](https://raamportfolio.vercel.app/work/tetanggaku#watch)
 
 ---
 
@@ -84,4 +84,4 @@ It turned into a regular feedback loop. Drivers asked their questions live, and 
 
 ---
 
-[Raam Pujangga Sadewa](https://raam-portfolio-eta.vercel.app) · Product Design Engineer
+[Raam Pujangga Sadewa](https://raamportfolio.vercel.app) · Product Design Engineer
